@@ -1,14 +1,8 @@
-# 🌐 My Personal Website
+# 🌐 Suryansh Portfolio v1
 
-This is my personal website built with a green theme and a dynamic GIF background. It serves as a central hub to showcase all my personal and professional details — including my portfolio, contact information, resume, and more.
+This is the first version of my personal portfolio website. It features a vibrant green theme, a dynamic GIF background, and multiple sections like About, Projects, Services, and Contact. Designed to be simple yet effective, this version uses standard scroll behavior and HTML structure.
 
-## 🚀 Features
-
-- Stylish green-themed UI
-- Dynamic GIF background
-- About Me section
-- Contact form
-- Services offered
-- Downloadable CV
-- Responsive HTML pages
-
+✅ Features:
+- Green-themed animated layout
+- CV download
+- About, Services, and Contact sections
