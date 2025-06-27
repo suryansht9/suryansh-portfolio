@@ -12,5 +12,3 @@ This is my personal website built with a green theme and a dynamic GIF backgroun
 - Downloadable CV
 - Responsive HTML pages
 
-## 📁 Project Structure
-
